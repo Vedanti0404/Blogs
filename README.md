@@ -4,3 +4,5 @@
 # 1) **C++ Functions: The Engine Behind Efficient Code**
 ### **Dive into C++ functions for optimized code. Explore syntax, recursion, and inline functions. Elevate your coding skills effortlessly.**
 **https://medium.com/@vedantikoyande/c-functions-the-engine-behind-efficient-code-e2ec00512e3e**
+# 2) **My Hands-On Journey in Python Programming: Unveiling the Fundamentals**
+### **Explore Python's fundamentals in my hands-on journey blog. Unveil core concepts and gain practical insights for confident Python programming.**
